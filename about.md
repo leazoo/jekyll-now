@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+나는 릴라입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+동물을 좋아하는 사람입니다. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[leelase@gmail.com](mailto:leelase@gmail.com)

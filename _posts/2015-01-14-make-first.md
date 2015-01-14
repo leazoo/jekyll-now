@@ -3,7 +3,6 @@ layout: post
 title: make first
 ---
 
-##**첫번째 시작**
 - [Raise The River](http://raisetheriver.org/)
 - [52 Places to Go in 2015](http://www.nytimes.com/interactive/2015/01/11/travel/52-places-to-go-in-2015.html?_r=3)
 
